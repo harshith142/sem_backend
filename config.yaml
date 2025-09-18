@@ -1,0 +1,16 @@
+brand_website: "https://www.nike.com"
+competitor_website: "https://www.adidas.com"
+
+
+target_locations: "New York, Los Angeles, Chicago"
+
+themes:
+  - "running shoes"
+  - "sports apparel"
+  - "training gear"
+
+
+budget_allocations:
+  cap: 2000   
+  bud: 1500   
+  pmax: 1500  

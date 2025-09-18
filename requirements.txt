@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+google-ads
+pydantic
+pandas
+pyyaml
+python-multipart
+python-dotenv
